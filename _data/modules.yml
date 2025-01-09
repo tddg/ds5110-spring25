@@ -5,7 +5,7 @@
   name: Lec1-Introduction
   page: /lectures/lec1-intro
 2a:
-  name: Lec2-Using AWS Academy, EC2, and Linux shell
+  name: Lec2-AWS Academy, EC2, and Linux shell
   page: /lectures/lec2-basics
 3a:
   name: Lec3-Processes, threads
