@@ -1,0 +1,29 @@
+deadlines:
+  '3':
+    Thu:
+      date: 2025/01/30 11:00am
+      content: a0
+  '5':
+    Thu:
+      date: 2025/02/13 11:00am
+      content: a1
+  '7':
+    Thu:
+      date: 2025/02/27 11:00am
+      content: a2
+  '10':
+    Thu:
+      date: 2025/03/20 11:00am
+      content: a3
+  '13':
+    Thu:
+      date: 2025/04/10 11:00am
+      content: a4
+dates:
+  firstMonday: 2025/01/13
+  numWeeks: 17
+types:
+  default:
+    className: lesson
+  holiday:
+    className: holiday

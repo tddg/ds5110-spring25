@@ -1,0 +1,114 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+1a:
+  name: Lec1-Introduction
+  page: /lectures/lec1-intro
+2a:
+  name: Lec2-Using AWS Academy, EC2, and Linux shell
+  page: /lectures/lec2-basics
+3a:
+  name: Lec3-Processes, threads
+  page: /lectures/lec3-procs-threads
+4a:
+  name: Lec4-Caching
+  page: /lectures/lec4-caching
+5a:
+  name: Lec5-Python parallelism I
+  page: /lectures/lec5-py-parallel
+6a:
+  name: Lec6-Python numeric types
+  page: /lectures/lec6-py-numeric-types
+7a:
+  name: Lec7-Python parallelism II
+  page: /lectures/lec5-py-parallel
+8a:
+  name: Lec8a-GFS-HDFS
+  page: /lectures/lec8-gfs-mapreduce
+8b:
+  name: Lec8b-MapReduce
+  page: /lectures/lec8-gfs-mapreduce
+9a:
+  name: Lec9a-Spark RDD
+  page: /lectures/lec9-spark
+9b:
+  name: Lec9b-Spark internals
+  page: /lectures/lec9-spark
+10a:
+  name: Lec10-AWS AI
+  page: /lectures/lec10-AWS-AI
+midtermReview:
+  name: Midterm review
+  page: /lectures/midterm-review
+midterm:
+  name: Midterm (<strong>2pm - 3:15pm</strong>)
+11a:
+  name: Lec11a-Ray API
+  page: /lectures/lec11-ray
+11b:
+  name: Lec11b-Ray internals
+  page: /lectures/lec11-ray
+11c:
+  name: Lec11c-Ray in production
+  page: /lectures/lec11-ray
+springRecess:
+  name: Spring Recess (no class)
+  type: holiday
+12a:
+  name: Lec12a-LLM systems
+  page: /lectures/lec12-llm
+12b:
+  name: Lec12b-LLM fairness
+  page: /lectures/lec12-llm
+12c:
+  name: Lec12c-LLM compression
+  page: /lectures/lec12-llm-compression
+13a:
+  name: Lec14-Cloud computing
+  page: /lectures/lec14-cloud-computing
+14a:
+  name: Lec15a-Serverless computing
+  page: /lectures/lec15-serverless-computing
+15a:
+  name: Lec16-Serverless notebooks
+  page: /lectures/lec16-serverless-notebooks
+16a:
+  name: Lec17-Serverless LLM
+  page: /lectures/lec17-serverless-llm
+17a:
+  name: Lec18a-Cloud storage systems (AWS S3)
+  page: /lectures/lec18-cloud-storage
+17b:
+  name: Lec18b-Cloud storage systems (Amazon Dynamo I)
+  page: /lectures/lec18-cloud-storage
+17c:
+  name: Lec18c-Cloud storage systems (Amazon Dynamo II)
+  page: /lectures/lec18-cloud-storage
+18a:
+  name: Lec19a-Hugging Face architecture
+  page: /lectures/lec19-hugging-face
+finalExam:
+  name: Final exam (<strong>9:00am - 11:00am</strong>)
+a0:
+  name: Assignment 0
+  type: deadline
+  page: /assignments/a0
+a1:
+  name: Assignment 1
+  type: deadline
+  page: /assignments/a1
+a2:
+  name: Assignment 2
+  type: deadline
+  page: /assignments/a2
+a3:
+  name: Assignment 3
+  type: deadline
+  page: /assignments/a3
+a4:
+  name: Assignment 4
+  type: deadline
+  page: /assignments/a4
+readingDay:
+  name: Reading days
+  type: holiday
