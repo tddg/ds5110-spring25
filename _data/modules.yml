@@ -70,7 +70,7 @@ springRecess:
   name: Lec15a-Serverless computing
   page: /lectures/lec15-serverless-computing
 15a:
-  name: Lec16-Serverless notebooks
+  name: Lec16-GPU-efficient notebooks
   page: /lectures/lec16-serverless-notebooks
 16a:
   name: Lec17-Serverless LLM
