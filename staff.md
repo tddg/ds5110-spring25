@@ -9,8 +9,6 @@ nav_order: 4
 
 ## Office Hours
 
-The time and location of Office hours will be determined ASAP.
-
 Links to join the TA and instructor office hours are posted in Canvas.
 
 
