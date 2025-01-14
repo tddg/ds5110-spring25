@@ -66,11 +66,8 @@ discussions about the readings that you will have read
 before the class. You are encouraged to participate in discussions.
 To stimulate better discussion, you need to complete the assigned reading
 assignments, e.g., a research paper about a topic. One way to test your
-understanding is to fill out a required review form for that reading assignment.
-The review forms in total is worth 5% of your overall grade, so
-it does matter that you 1) submit the review forms on time **AND** 2)
-participate in the discussion (which in fact requires you to do the
-required readings).
+understanding is to read the assigned reading matetial with questions in mind.
+The instructor will provide reading questions a few days before the lecture.
 
 I also strongly encourage you to discuss the assigned/optional
 readings (papers/tech reports/online documentations) with other students
@@ -106,14 +103,14 @@ with a list of ideas around Week 4.
 Your grade will be calculated as follows:
 
 * 5%  quizzes
-* 10% participation (in-class Q&A)
 * 5%  assignment 0
 * 10% assignment 1
-* 10% assignment 2
-* 10% assignment 3
+* 15% assignment 2
+* 15% assignment 3
 * 20% assignment 4
 * 15% midterm exam
-* 15% midterm exam
+* 15% final exam
+* (Extra credit) 5% participation (in-class Q&A)
 
 
 ### Midterm and final exams
