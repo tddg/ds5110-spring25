@@ -6,7 +6,7 @@
   page: /lectures/lec1-intro
 2a:
   name: Lec2-AWS Academy, EC2, and Linux shell
-  page: /lectures/lec2-basics
+  page: /lectures/lec2-shell
 3a:
   name: Lec3-Processes, threads
   page: /lectures/lec3-procs-threads
