@@ -22,3 +22,8 @@ In this lecture, you will learn:
 
 ### Resources
 * [Class Syllabus](/ds5110-spring25/info)
+
+
+### Recording
+
+* Lec1: [video](https://edstem.org/us/courses/72907/discussion/5973298)
