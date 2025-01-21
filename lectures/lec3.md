@@ -1,7 +1,7 @@
 ---
 layout: module
 title: "Lecture 3: Processes, threads"
-permalink: /lectures/lec3-processes-threads
+permalink: /lectures/lec3-procs-threads
 parent: Lectures
 nav_order: 3
 
