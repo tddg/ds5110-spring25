@@ -35,9 +35,9 @@ def pip3_test():
 @test(points = 15)
 def jupyter_test():
     with open("jupyter.txt") as f:
-        if "8.20.0" in f.read():
+        if "8.31.0" or "8.20.0" in f.read():
             return None
-    return "could not find 8.20.0 in jupyter.txt"
+    return "could not find 8.31.0 or 8.20.0 in jupyter.txt"
 
 @test(points = 10)
 def bashfile_test():
