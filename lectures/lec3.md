@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec3:** Processes, threads: [slides pdf](/ds5110-spring25/assets/docs/lec3-processes-threads.pdf), [worksheet](#)
+* **Lec3:** Processes, threads: [slides pdf](/ds5110-spring25/assets/docs/lec3-processes-threads.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_sched.pdf)
 
 
 ### Readings
