@@ -11,7 +11,7 @@ nav_order: 3
 
 In this lecture, you will learn:
 
-* Descirbe the interaction between CPUs, processes, threads, address space, and schedulers
+* Describe the interaction between CPUs, processes, threads, address space, and schedulers
 * Understand basic CPU scheduling policies (FIFO, SJF, STCF, RR)
 * How to use Linux shell commands to track running progrmas and manipulate their scheduling behaviors
 
