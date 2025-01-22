@@ -27,4 +27,7 @@ In this lecture, you will learn:
 
 
 
+### Recordings
+
+* Lec3: [video](https://edstem.org/us/courses/72907/discussion/6009767)
 
