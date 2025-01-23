@@ -5,5 +5,6 @@ date: 2025-01-20
 ---
 
 * Lecture 3's slides are posted. 
+* Lecture 4's slides are posted. 
 
 {: .fs-5 }
