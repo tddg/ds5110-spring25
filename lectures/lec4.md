@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec4:** Caching: [slides pdf](/ds5110-spring25/assets/docs/lec4-caching.pdf), [worksheet](#)
+* **Lec4:** Caching: [slides pdf](/ds5110-spring25/assets/docs/lec4-caching.pdf), [worksheet](/ds5110-sprin25/assets/docs/worksheet_caching.pdf)
 
 
 ### Readings
@@ -28,5 +28,5 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* Lec4: [video](#)
+* Lec4a: [video](https://edstem.org/us/courses/72907/discussion/6047051)
 

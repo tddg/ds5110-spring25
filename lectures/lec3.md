@@ -29,5 +29,6 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* Lec3: [video](https://edstem.org/us/courses/72907/discussion/6009767)
+* Lec3a: [video](https://edstem.org/us/courses/72907/discussion/6009767)
+* Lec3b: [video](https://edstem.org/us/courses/72907/discussion/6047045)
 

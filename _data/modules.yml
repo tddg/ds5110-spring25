@@ -11,7 +11,10 @@
   name: Lec3-Processes, threads
   page: /lectures/lec3-procs-threads
 4a:
-  name: Lec4-Caching
+  name: Lec4-Caching I
+  page: /lectures/lec4-caching
+4b: 
+  name: Lec4-Caching II
   page: /lectures/lec4-caching
 5a:
   name: Lec5-Python parallelism I
