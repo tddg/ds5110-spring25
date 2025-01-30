@@ -20,11 +20,11 @@
   name: Lec5-Python parallelism I
   page: /lectures/lec5-py-parallel
 6a:
-  name: Lec6-Python numeric types
-  page: /lectures/lec6-py-numeric-types
+  name: Lec5-Python numeric types
+  page: /lectures/lec5-py-numeric-types
 7a:
-  name: Lec7-Python parallelism II
-  page: /lectures/lec5-py-parallel
+  name: Lec6-Python parallelism
+  page: /lectures/lec6-py-parallel
 8a:
   name: Lec8a-GFS-HDFS
   page: /lectures/lec8-gfs-mapreduce
