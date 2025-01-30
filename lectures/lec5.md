@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec5:** Python numeric types: [slides pdf](/ds5110-spring25/assets/docs/lec5-python-types.pdf), [notebook demo](#) 
+* **Lec5:** Python numeric types: [slides pdf](/ds5110-spring25/assets/docs/lec5-python-types_zys.pdf), [notebook demo](#) 
 
 
 ### Recordings
