@@ -23,5 +23,5 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lec5:** [video](#)
+* **Lec5:** [video](https://edstem.org/us/courses/72907/discussion/6077947)
 
