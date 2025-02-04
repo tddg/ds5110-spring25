@@ -17,40 +17,40 @@
   name: Lec4-Caching II
   page: /lectures/lec4-caching
 5a:
-  name: Lec5-Python parallelism I
-  page: /lectures/lec5-py-parallel
-6a:
   name: Lec5-Python numeric types
   page: /lectures/lec5-py-numeric-types
-7a:
-  name: Lec6-Python parallelism
+6a:
+  name: Lec5-Python parallelism I
   page: /lectures/lec6-py-parallel
-8a:
+6b:
+  name: Lec5-Python parallelism II
+  page: /lectures/lec6-py-parallel
+7a:
   name: Lec8a-GFS-HDFS
   page: /lectures/lec8-gfs-mapreduce
-8b:
+7b:
   name: Lec8b-MapReduce
   page: /lectures/lec8-gfs-mapreduce
-9a:
+8a:
   name: Lec9a-Spark RDD
   page: /lectures/lec9-spark
-9b:
+8b:
   name: Lec9b-Spark internals
   page: /lectures/lec9-spark
-10a:
-  name: Lec10-AWS AI
-  page: /lectures/lec10-AWS-AI
 midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
 midterm:
   name: Midterm (<strong>2pm - 3:15pm</strong>)
-11a:
+10a:
   name: Lec11a-Ray API
   page: /lectures/lec11-ray
-11b:
+10b:
   name: Lec11b-Ray internals
   page: /lectures/lec11-ray
+11a:
+  name: Lec10-AWS AI
+  page: /lectures/lec10-AWS-AI
 11c:
   name: Lec11c-Ray in production
   page: /lectures/lec11-ray

@@ -29,30 +29,30 @@ weeks:
       content: 4b
     Thu:
       date: 2025/01/30
-      content: 6a
+      content: 5a
       note: "[Assignment 1](/ds5110-spring25/assignments/a1) out"
   '4':
     Tue:
       date: 2025/02/04
-      content: 7a
+      content: 6a
     Thu:
       date: 2024/02/06
-      content: 8a
+      content: 6b
   '5':
     Tue:
       date: 2025/02/11
-      content: 8b
+      content: 7a
     Thu:
       date: 2025/02/13
-      content: 9a
+      content: 7b
       note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
   '6':
     Tue:
       date: 2025/02/18
-      content: 9b
+      content: 8a
     Thu:
       date: 2025/02/20
-      content: 10a
+      content: 8b
   '7':
     Tue:
       date: 2025/02/25
@@ -64,10 +64,10 @@ weeks:
   '8':
     Tue:
       date: 2025/03/04
-      content: 11a
+      content: 10a
     Thu:
       date: 2025/03/06
-      content: 11b
+      content: 10b
   '9':
     Tue:
       date: 2025/03/11
@@ -78,7 +78,7 @@ weeks:
   '10':
     Tue:
       date: 2025/03/18
-      content: 11c
+      content: 11a
     Thu:
       date: 2025/03/20
       content: 12a
