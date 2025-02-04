@@ -7,9 +7,9 @@ from tester import init, test, cleanup, tester_main
 @test(points = 15)
 def os_test():
     with open("os.txt") as f:
-        if "Ubuntu 22.04" in f.read():
+        if "Ubuntu 22.04" or "Ubuntu 24.04" in f.read():
             return None
-    return "could not find Ubuntu 22.04 in os.txt"
+    return "could not find Ubuntu 22.04 or Ubuntu 24.04 in os.txt"
 
 @test(points = 10)
 def cpu_test():
@@ -28,9 +28,9 @@ def mem_test():
 @test(points = 10)
 def pip3_test():
     with open("pip3.txt") as f:
-        if "22.0.2" in f.read():
+        if "22.0.2" or "24.0" in f.read():
             return None
-    return "could not find 22.0.2 in pip3.txt"
+    return "could not find 22.0.2 or 24.0 in pip3.txt"
 
 @test(points = 15)
 def jupyter_test():
