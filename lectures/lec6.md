@@ -1,7 +1,7 @@
 ---
 layout: module
 title: "Lecture 6: Python parallel processing"
-permalink: /lectures/lec5-py-parallel
+permalink: /lectures/lec6-py-parallel
 parent: Lectures
 nav_order: 6
 
