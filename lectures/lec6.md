@@ -27,4 +27,7 @@ In this lecture, you will learn:
 
 ### Recordings
 
+* Lec6a: [video](https://edstem.org/us/courses/72907/discussion/6103388)
+* Lec6b: [tba](#)
+
 

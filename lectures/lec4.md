@@ -30,3 +30,4 @@ In this lecture, you will learn:
 
 * Lec4a: [video](https://edstem.org/us/courses/72907/discussion/6047051)
 * Lec4b: [video](https://edstem.org/us/courses/72907/discussion/6089790)
+* Lec4c: [video](https://edstem.org/us/courses/72907/discussion/6103384)
