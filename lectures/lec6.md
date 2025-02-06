@@ -31,3 +31,7 @@ In this lecture, you will learn:
 * Lec6b: [tba](#)
 
 
+
+### Quiz
+
+<a href="https://forms.gle/BgRtDKbAZ7Kn8rBv8">QUiz 1</a>
