@@ -20,23 +20,23 @@
   name: Lec5-Python numeric types
   page: /lectures/lec5-py-numeric-types
 6a:
-  name: Lec6-Python parallelism I
-  page: /lectures/lec6-py-parallel
+  name: Lec6a-Python parallelism I
+  page: /lectures/lec6a-py-parallel
 6b:
-  name: Lec6-Python parallelism II
-  page: /lectures/lec6-py-parallel
+  name: Lec6b-Python parallelism II
+  page: /lectures/lec6b-py-parallel
 7a:
-  name: Lec8a-GFS-HDFS
-  page: /lectures/lec8-gfs-mapreduce
+  name: Lec7a-GFS-HDFS
+  page: /lectures/lec7a-gfs-mapreduce
 7b:
-  name: Lec8b-MapReduce
-  page: /lectures/lec8-gfs-mapreduce
+  name: Lec7b-MapReduce
+  page: /lectures/lec7b-gfs-mapreduce
 8a:
-  name: Lec9a-Spark RDD
-  page: /lectures/lec9-spark
+  name: Lec8a-Spark RDD
+  page: /lectures/lec8a-spark
 8b:
-  name: Lec9b-Spark internals
-  page: /lectures/lec9-spark
+  name: Lec8b-Spark internals
+  page: /lectures/lec8b-spark
 midtermReview:
   name: Midterm review
   page: /lectures/midterm-review
