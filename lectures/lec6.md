@@ -22,7 +22,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec6:** Parallel processing in Python: [slides pdf](/ds5110-spring25/assets/docs/lec6-python-parallel.pdf), [notebook demo](#) 
+* **Lec6:** Parallel processing in Python: [slides pdf](/ds5110-spring25/assets/docs/lec6-python-parallel.pdf), [notebook demo (EC2)](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/python_parallelism_demo.ipynb) , [notebook demo2 (macbook)](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/python_parallelism_demo_multicore_macbook.ipynb)
 
 
 ### Recordings
