@@ -31,3 +31,6 @@ In this lecture, you will learn:
 * Lec6b: [video](https://edstem.org/us/courses/72907/discussion/6125596)
 
 
+### Quiz
+
+<a href="https://forms.gle/cQfBoQ3fKM2Fx9dZ6">Quiz 1</a>
