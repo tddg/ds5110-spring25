@@ -3,9 +3,9 @@ deadlines:
     Thu:
       date: 2025/01/30 11:00am
       content: a0
-  '5':
-    Thu:
-      date: 2025/02/13 11:00am
+  '6':
+    Tue:
+      date: 2025/02/18 11:00am
       content: a1
   '7':
     Thu:

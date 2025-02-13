@@ -45,11 +45,11 @@ weeks:
     Thu:
       date: 2025/02/13
       content: 7b
-      note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
   '6':
     Tue:
       date: 2025/02/18
       content: 8a
+      note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
     Thu:
       date: 2025/02/20
       content: 8b
