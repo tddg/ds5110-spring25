@@ -11,15 +11,18 @@ nav_order: 7
 
 In this lecture, you will learn:
 
-* the design of HDFS and GFS
-* the techniques of data partitioning, replication, and motivation behind them
-* role clients, NameNode, DataNodes play for distributed file system reads and writes
-
+* **Lec7a:** the design of HDFS and GFS
+* **Lec7a:** the techniques of data partitioning, replication, and motivation behind them
+* **Lec7a:** role clients, NameNode, DataNodes play for distributed file system reads and writes
+* **Lec7b:** role mappers and reducers have in MapReduce jobs
+* **Lec7b:** example MapReduce workflows
+* **Lec7b:** techniques to tackle the challenges of stragglers
 
 
 ### Lecture slides
 
 * **Lec7a:** GFS and HDFS: [slides pdf](/ds5110-spring25/assets/docs/lec7a-gfs-hdfs.pdf)
+* **Lec7b:** Hadoop MapReduce: [slides pdf](/ds5110-spring25/assets/docs/lec7b-mapreduce.pdf)
 
 
 

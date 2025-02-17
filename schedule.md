@@ -41,18 +41,18 @@ weeks:
   '5':
     Tue:
       date: 2025/02/11
-      content: 7a
+      content: cancelled
     Thu:
       date: 2025/02/13
-      content: 7b
+      content: 7a
   '6':
     Tue:
       date: 2025/02/18
-      content: 8a
+      content: 7b
       note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
     Thu:
       date: 2025/02/20
-      content: 8b
+      content: 8a
   '7':
     Tue:
       date: 2025/02/25
