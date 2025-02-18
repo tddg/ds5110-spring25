@@ -60,7 +60,6 @@ weeks:
     Thu:
       date: 2025/02/27
       content: midterm
-      note: "[Assignment 3](/ds5110-spring25/assignments/a3) out"
   '8':
     Tue:
       date: 2025/03/04
@@ -68,6 +67,7 @@ weeks:
     Thu:
       date: 2025/03/06
       content: 10b
+      note: "[Assignment 3](/ds5110-spring25/assignments/a3) out"
   '9':
     Tue:
       date: 2025/03/11
