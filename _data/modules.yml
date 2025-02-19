@@ -35,8 +35,8 @@ cancelled:
   name: Lec7b-MapReduce
   page: /lectures/lec7-gfs-mapreduce
 8a:
-  name: Lec8a-Spark RDD
-  page: /lectures/lec8a-spark
+  name: Lec8-Spark RDD
+  page: /lectures/lec8-spark
 8b:
   name: Lec8b-Spark internals
   page: /lectures/lec8b-spark
