@@ -46,11 +46,11 @@ midtermReview:
 midterm:
   name: Midterm (<strong>2pm - 3:15pm</strong>)
 10a:
-  name: Lec11a-Ray API
-  page: /lectures/lec11-ray
+  name: Lec9a-Ray API
+  page: /lectures/lec9-ray
 10b:
-  name: Lec11b-Ray internals
-  page: /lectures/lec11-ray
+  name: Lec9b-Ray internals
+  page: /lectures/lec9-ray
 11a:
   name: Lec10-AWS AI
   page: /lectures/lec10-AWS-AI
@@ -61,38 +61,38 @@ springRecess:
   name: Spring Recess (no class)
   type: holiday
 12a:
-  name: Lec12a-LLM systems
-  page: /lectures/lec12-llm
+  name: Lec11a-LLM systems
+  page: /lectures/lec11-llm
 12b:
-  name: Lec12b-LLM fairness
-  page: /lectures/lec12-llm
+  name: Lec11b-LLM fairness
+  page: /lectures/lec11-llm
 12c:
-  name: Lec12c-LLM compression
-  page: /lectures/lec12-llm-compression
+  name: Lec11c-LLM compression
+  page: /lectures/lec11-llm-compression
 13a:
-  name: Lec14-Cloud computing
-  page: /lectures/lec14-cloud-computing
+  name: Lec12-Cloud computing
+  page: /lectures/lec12-cloud-computing
 14a:
-  name: Lec15a-Serverless computing
-  page: /lectures/lec15-serverless-computing
+  name: Lec13-Serverless computing
+  page: /lectures/lec13-serverless-computing
 15a:
-  name: Lec16-GPU-efficient notebooks
-  page: /lectures/lec16-serverless-notebooks
+  name: Lec14-GPU-efficient notebooks
+  page: /lectures/lec14-serverless-notebooks
 16a:
-  name: Lec17-Serverless LLM
-  page: /lectures/lec17-serverless-llm
+  name: Lec15-Serverless LLM
+  page: /lectures/lec15-serverless-llm
 17a:
-  name: Lec18a-Cloud storage systems (AWS S3)
-  page: /lectures/lec18-cloud-storage
+  name: Lec16a-Cloud storage systems (AWS S3)
+  page: /lectures/lec16-cloud-storage
 17b:
-  name: Lec18b-Cloud storage systems (Amazon Dynamo I)
-  page: /lectures/lec18-cloud-storage
+  name: Lec16b-Cloud storage systems (Amazon Dynamo I)
+  page: /lectures/lec16-cloud-storage
 17c:
-  name: Lec18c-Cloud storage systems (Amazon Dynamo II)
-  page: /lectures/lec18-cloud-storage
+  name: Lec16c-Cloud storage systems (Amazon Dynamo II)
+  page: /lectures/lec16-cloud-storage
 18a:
-  name: Lec19a-Hugging Face architecture
-  page: /lectures/lec19-hugging-face
+  name: Lec17a-Hugging Face architecture
+  page: /lectures/lec17-hugging-face
 finalExam:
   name: Final exam (<strong>9:00am - 11:00am</strong>)
 a0:
