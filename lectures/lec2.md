@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec2:** Linux shell: [slides pdf](/ds5110-spring25/assets/docs/lec2-shell.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_shell.pdf)
+* **Lec2:** Linux shell: [slides pdf](/ds5110-spring25/assets/docs/lec2-shell.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_shell.pdf), [worksheet key](/ds5110-spring25/assets/docs/worksheet_sched_key_sp25.pdf)
 
 
 ### Readings

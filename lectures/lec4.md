@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec4:** Caching: [slides pdf](/ds5110-spring25/assets/docs/lec4-caching.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_caching.pdf), [notebook demo](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/cache_demo.ipynb)
+* **Lec4:** Caching: [slides pdf](/ds5110-spring25/assets/docs/lec4-caching.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_caching.pdf), [worksheet key](/ds5110-spring25/assets/docs/worksheet_caching_key_sp25.pdf), [notebook demo](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/cache_demo.ipynb)
 
 
 ### Readings
