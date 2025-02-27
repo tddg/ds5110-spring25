@@ -41,7 +41,7 @@ weeks:
   '5':
     Tue:
       date: 2025/02/11
-      content: cancelled
+      content: snowDay
     Thu:
       date: 2025/02/13
       content: 7a
@@ -56,17 +56,17 @@ weeks:
   '7':
     Tue:
       date: 2025/02/25
-      content: midtermReview
+      content: cancelled
     Thu:
       date: 2025/02/27
-      content: midterm
+      content: midtermReview
   '8':
     Tue:
       date: 2025/03/04
-      content: 10a
+      content: midterm
     Thu:
       date: 2025/03/06
-      content: 10b
+      content: 10a
       note: "[Assignment 3](/ds5110-spring25/assignments/a3) out"
   '9':
     Tue:

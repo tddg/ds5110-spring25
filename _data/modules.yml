@@ -25,8 +25,11 @@
 6b:
   name: Lec6b-Python parallelism II
   page: /lectures/lec6-py-parallel
-cancelled:
+snowDay:
   name: Snow day (class cancelled)
+  type: holiday
+cancelled:
+  name: Class cancelled
   type: holiday
 7a:
   name: Lec7a-GFS-HDFS
