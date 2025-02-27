@@ -15,6 +15,6 @@ nav_order: 9
 
 ### Recordings
 
-* [Video](#)
+* [Video](https://edstem.org/us/courses/72907/discussion/6272538)
 
 

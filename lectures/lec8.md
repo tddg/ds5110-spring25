@@ -18,11 +18,11 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec8:** Spark RDD: [slides pdf](/ds5110-spring25/assets/docs/lec8-spark-rdd.pdf)
+* **Lec8:** Spark RDD: [slides pdf](/ds5110-spring25/assets/docs/lec8-spark-rdd.pdf), [PageRank notes](/ds5110-spring25/assets/docs/notes_pagerank.pdf), [Interactive debugging lineage graph example](/ds5110-spring25/assets/docs/interactive_debugging_lineage_graph_example.pdf)
 
 
 ### Recordings
 
 * Lec8a: [video](https://edstem.org/us/courses/72907/discussion/6222334)
-
+* Lec8b: [video](https://edstem.org/us/courses/72907/discussion/6272562)
 
