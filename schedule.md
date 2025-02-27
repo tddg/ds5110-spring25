@@ -56,7 +56,7 @@ weeks:
   '7':
     Tue:
       date: 2025/02/25
-      content: cancelled
+      content: cancelledLockdown
     Thu:
       date: 2025/02/27
       content: midtermReview

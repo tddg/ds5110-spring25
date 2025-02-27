@@ -28,8 +28,8 @@
 snowDay:
   name: Snow day (class cancelled)
   type: holiday
-cancelled:
-  name: Class cancelled
+cancelledLockdown:
+  name: Class cancelled (university locked down)
   type: holiday
 7a:
   name: Lec7a-GFS-HDFS
