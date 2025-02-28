@@ -25,4 +25,5 @@ In this lecture, you will learn:
 
 * Lec8a: [video](https://edstem.org/us/courses/72907/discussion/6222334)
 * Lec8b: [video](https://edstem.org/us/courses/72907/discussion/6272562)
+* Lec8c: [video](https://edstem.org/us/courses/72907/discussion/6274489)
 
