@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec9:** Ray API: [slides pdf](/ds5110-spring25/assets/docs/lec8-ray-api.pdf)
+* **Lec9:** Ray API: [slides pdf](/ds5110-spring25/assets/docs/lec9-ray-api.pdf)
 
 
 ### Recordings
