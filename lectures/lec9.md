@@ -24,3 +24,9 @@ In this lecture, you will learn:
 
 * Lec9: [video]()
 
+
+### Quiz
+
+<a href="https://forms.gle/diMCbqD2rYEgpNVV6">Quiz 2</a>
+
+
