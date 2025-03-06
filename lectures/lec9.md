@@ -3,7 +3,7 @@ layout: module
 title: "Lecture 9: Ray"
 permalink: /lectures/lec9-ray
 parent: Lectures
-nav_order: 9
+nav_order: 10
 
 ---
 
