@@ -82,7 +82,6 @@ weeks:
     Thu:
       date: 2025/03/20
       content: 12a
-      note: "[Assignment 4](/ds5110-spring25/assignments/a4) out"
   '11':
     Tue:
       date: 2025/03/25
@@ -90,6 +89,7 @@ weeks:
     Thu:
       date: 2025/03/27
       content: 12c
+      note: "[Assignment 4](/ds5110-spring25/assignments/a4) out"
   '12':
     Tue:
       date: 2025/04/01
