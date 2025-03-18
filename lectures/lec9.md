@@ -23,6 +23,7 @@ In this lecture, you will learn:
 ### Recordings
 
 * Lec9: [video](https://edstem.org/us/courses/72907/discussion/6321729)
+* A3 walkthrough: [video](https://edstem.org/us/courses/72907/discussion/6389195)
 
 
 ### Quiz
