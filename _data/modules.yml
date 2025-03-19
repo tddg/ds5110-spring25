@@ -55,7 +55,7 @@ midterm:
   name: Lec9b-Ray internals
   page: /lectures/lec9-ray
 11a:
-  name: Lec10-AWS AI
+  name: Lec10-GenAI at Amazon
   page: /lectures/lec10-amazon-genai
 11c:
   name: Lec11c-Ray in production
