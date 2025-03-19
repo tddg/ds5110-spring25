@@ -27,7 +27,7 @@ incrementally updated to include more papers as we go.
 
 [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/conference/osdi18/presentation/moritz) [USENIX OSDI 2018]
 
-**(required)** [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909) [ACM SIGMOD 2018]
+**(required)** [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/pdf/2310.08560) [arXiv]
 
 
 
