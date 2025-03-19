@@ -56,7 +56,7 @@ midterm:
   page: /lectures/lec9-ray
 11a:
   name: Lec10-AWS AI
-  page: /lectures/lec10-AWS-AI
+  page: /lectures/lec10-amazon-genai
 11c:
   name: Lec11c-Ray in production
   page: /lectures/lec11-ray
