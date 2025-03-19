@@ -64,14 +64,14 @@ springRecess:
   name: Spring Recess (no class)
   type: holiday
 12a:
-  name: Lec11a-LLM systems
-  page: /lectures/lec11-llm
+  name: Lec11-LLMs as OS
+  page: /lectures/lec11-llm-os
 12b:
-  name: Lec11b-LLM fairness
-  page: /lectures/lec11-llm
+  name: Lec12-LLM fairness
+  page: /lectures/lec12-llm-fairness
 12c:
-  name: Lec11c-LLM compression
-  page: /lectures/lec11-llm-compression
+  name: Lec13-LLM compression
+  page: /lectures/lec13-llm-compression
 13a:
   name: Lec12-Cloud computing
   page: /lectures/lec12-cloud-computing
