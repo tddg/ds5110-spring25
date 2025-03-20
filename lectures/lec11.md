@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec11:** LLMs as OS: [slides pdf]()
+* **Lec11:** LLMs as OS: [slides pdf](/ds5110-spring25/assets/docs/lec11-llm-os.pdf)
 
 
 ### Reading
