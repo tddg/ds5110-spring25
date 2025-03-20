@@ -30,3 +30,7 @@ In this lecture, you will learn:
 * Lec11: [video]()
 
 
+### Quiz
+
+<a href="https://forms.gle/TmccUEYYukJ9K6Gx5">Quiz 3</a>
+
