@@ -85,39 +85,39 @@ weeks:
   '11':
     Tue:
       date: 2025/03/25
-      content: 12b
+      content: 12a
     Thu:
       date: 2025/03/27
-      content: 12c
+      content: 13a
       note: "[Assignment 4](/ds5110-spring25/assignments/a4) out"
   '12':
     Tue:
       date: 2025/04/01
-      content: 13a
+      content: 14a
     Thu:
       date: 2025/04/03
-      content: 14a
+      content: 15a
   '13':
     Tue:
       date: 2025/04/08
-      content: 15a
+      content: 16a
     Thu:
       date: 2025/04/10
-      content: 16a
+      content: 17a
   '14':
     Tue:
       date: 2025/04/15
-      content: 17a
+      content: 18a
     Thu:
       date: 2025/04/17
-      content: 17b
+      content: 18b
   '15':
     Tue:
       date: 2025/04/22
-      content: 17c
+      content: 18c
     Thu:
       date: 2025/04/24
-      content: 18a
+      content: 19a
   '16':
     Tue:
       date: 2025/04/29

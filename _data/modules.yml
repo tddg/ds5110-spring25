@@ -69,33 +69,33 @@ springRecess:
 12b:
   name: Lec12-LLM fairness
   page: /lectures/lec12-llm-fairness
-12c:
-  name: Lec13-LLM compression
-  page: /lectures/lec13-llm-compression
 13a:
-  name: Lec12-Cloud computing
-  page: /lectures/lec12-cloud-computing
+  name: Lec13-Cloud computing
+  page: /lectures/lec13-cloud-computing
 14a:
-  name: Lec13-Serverless computing
-  page: /lectures/lec13-serverless-computing
+  name: Lec14-Serverless LLM
+  page: /lectures/lec14-serverless-llm
 15a:
-  name: Lec14-GPU-efficient notebooks
-  page: /lectures/lec14-serverless-notebooks
+  name: Lec15-LLM compression
+  page: /lectures/lec15-llm-compression
 16a:
-  name: Lec15-Serverless LLM
-  page: /lectures/lec15-serverless-llm
+  name: Lec16-Serverless computing
+  page: /lectures/lec16-serverless-computing
 17a:
-  name: Lec16a-Cloud storage systems (AWS S3)
-  page: /lectures/lec16-cloud-storage
-17b:
-  name: Lec16b-Cloud storage systems (Amazon Dynamo I)
-  page: /lectures/lec16-cloud-storage
-17c:
-  name: Lec16c-Cloud storage systems (Amazon Dynamo II)
-  page: /lectures/lec16-cloud-storage
+  name: Lec17-GPU-efficient notebooks
+  page: /lectures/lec17-serverless-notebooks
 18a:
-  name: Lec17a-Hugging Face architecture
-  page: /lectures/lec17-hugging-face
+  name: Lec18a-Cloud storage systems (AWS S3)
+  page: /lectures/lec18-cloud-storage
+18b:
+  name: Lec18b-Cloud storage systems (Amazon Dynamo I)
+  page: /lectures/lec18-cloud-storage
+18c:
+  name: Lec18c-Cloud storage systems (Amazon Dynamo II)
+  page: /lectures/lec19-cloud-storage
+19a:
+  name: Lec19-Hugging Face architecture
+  page: /lectures/lec19-hugging-face
 finalExam:
   name: Final exam (<strong>9:00am - 11:00am</strong>)
 a0:
