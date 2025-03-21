@@ -26,7 +26,7 @@
   name: Lec6b-Python parallelism II
   page: /lectures/lec6-py-parallel
 snowDay:
-  name: Snow day (class cancelled)
+  name: Class cancelled (snow day)
   type: holiday
 cancelledLockdown:
   name: Class cancelled (university locked down)
