@@ -33,7 +33,11 @@ incrementally updated to include more papers as we go.
 
 ### Cloud Computing and Storage Systems
 
+**(required)** [Above the Clouds: A Berkeley View on Cloud Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf) [Tech report]
+
 **(required)** [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf) [Tech report]
+
+**(optional)** [Cloudscape: A Study of Storage Services in Modern Cloud Architectures](https://www.usenix.org/conference/fast25/presentation/satija) [USENIX FAST 2025]
 
 **(required)** [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/pdf/1702.04024.pdf) [ACM SoCC 2017]
 
