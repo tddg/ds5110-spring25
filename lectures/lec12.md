@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec12:** LLM agent fairness: [slides pdf]()
+* **Lec12:** LLM agent fairness: [slides pdf](https://edstem.org/us/courses/72907/discussion/6426074)
 
 
 ### Reading
