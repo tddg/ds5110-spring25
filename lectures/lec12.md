@@ -27,6 +27,6 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* Lec12: [video]()
+* Lec12: [video](https://edstem.org/us/courses/72907/discussion/6426926)
 
 
