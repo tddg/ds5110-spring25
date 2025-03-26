@@ -23,7 +23,8 @@ In this lecture, you will:
 
 ### Reading
 
-* **Lec13:** [Berkeley Cloud Computing Survey](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
+* **Lec13:** [Berkeley Cloud Computing Survey](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf) (required), [Cloudscape](https://www.usenix.org/conference/fast25/presentation/satija) (optional)
+
 
 
 ### Recordings

@@ -70,7 +70,7 @@ springRecess:
   name: Lec12-LLM fairness
   page: /lectures/lec12-llm-fairness
 13a:
-  name: Lec13-Cloud computing
+  name: Lec13-Cloud computing fundamentals
   page: /lectures/lec13-cloud-computing
 14a:
   name: Lec14-Serverless LLM
