@@ -29,7 +29,7 @@ In this lecture, you will:
 
 ### Recordings
 
-* Lec13: [video]()
+* Lec13: [video](https://edstem.org/us/courses/72907/discussion/6436728)
 
 
 
