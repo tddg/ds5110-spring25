@@ -17,7 +17,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec9:** Ray API: [slides pdf](/ds5110-spring25/assets/docs/lec9-ray-api.pdf)
+* **Lec9:** Ray API: [slides pdf](/ds5110-spring25/assets/docs/lec9-ray-api.pdf), [Ray task & actor demo](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/ray_demo.ipynb), [Ray maze Q-learning demo](https://github.com/tddg/ds5110-spring25/blob/main/assets/datasets/ray_maze_demo.ipynb)
 
 
 ### Recordings
