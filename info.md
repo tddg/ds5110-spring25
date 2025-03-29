@@ -86,7 +86,7 @@ semester:
 * [Assignment 1](/ds5110-spring25/assignments/a1): Parallelizing Python processing with Dask.
 * [Assignment 2](/ds5110-spring25/assignments/a2): A tour of Apache HDFS and Spark.
 * [Assignment 3](/ds5110-spring25/assignments/a3): A deeper dive with Ray.
-* [Assignment 4](/ds5110-spring25/assignments/a4): (Small) LLM pipeline.
+* [Assignment 4](/ds5110-spring25/assignments/a4): Fine-tuning a GPT2 with one tiny cloud thread.
 
 
 
