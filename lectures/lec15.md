@@ -17,7 +17,7 @@ In this lecture, you will:
 
 ### Lecture slides
 
-* **Lec15:** LLM compression, training, and serving: [slides pdf](#)
+* **Lec15:** LLM compression, training, and serving: [slides pdf](/ds5110-spring25/assets/docs/lec15-llm-systems.pdf)
 
 
 ### Recordings
