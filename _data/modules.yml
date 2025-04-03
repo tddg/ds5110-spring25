@@ -76,8 +76,8 @@ springRecess:
   name: Lec14-Scaling LLM serving
   page: /lectures/lec14-llm-scaling
 15a:
-  name: Lec15-LLM compression
-  page: /lectures/lec15-llm-compression
+  name: Lec15-LLM compression, training, and serving
+  page: /lectures/lec15-llm-systems
 16a:
   name: Lec16-Serverless computing
   page: /lectures/lec16-serverless-computing
