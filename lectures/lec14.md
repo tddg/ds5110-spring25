@@ -22,6 +22,6 @@ In this lecture, you will:
 
 ### Recordings
 
-* Lec13: [video](https://edstem.org/us/courses/72907/discussion/6469709)
+* Lec14: [video](https://edstem.org/us/courses/72907/discussion/6469709)
 
 
