@@ -22,7 +22,7 @@ In this lecture, you will:
 
 ### Recordings
 
-* Lec15: [video]()
+* Lec15: [video](https://edstem.org/us/courses/72907/discussion/6477019)
 
 
 ### Quiz
