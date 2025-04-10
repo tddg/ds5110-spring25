@@ -23,6 +23,6 @@ In this lecture, you will:
 
 ### Recordings
 
-* Lec17: [video]()
+* Lec17: [video](https://edstem.org/us/courses/72907/discussion/6514466)
 
 
