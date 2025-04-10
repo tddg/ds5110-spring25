@@ -11,7 +11,7 @@ nav_order: 17
 
 In this lecture, you will:
 
-* learn how the Jupyter Notebook client-server backend works
+* know how the Jupyter Notebook client-server backend works
 * learn how production notebook workloads behave and why it yields a low GPU utilization
 * know how to design better notebook systems to reduce the GPU resource wastage
 
