@@ -83,7 +83,7 @@ springRecess:
   page: /lectures/lec16-serverless-computing
 17a:
   name: Lec17-GPU-efficient notebooks
-  page: /lectures/lec17-serverless-notebooks
+  page: /lectures/lec17-notebooks
 18a:
   name: Lec18a-Cloud storage systems (AWS S3)
   page: /lectures/lec18-cloud-storage
