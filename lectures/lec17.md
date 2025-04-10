@@ -18,7 +18,7 @@ In this lecture, you will:
 
 ### Lecture slides
 
-* **Lec17:** GPU-efficient notebooks: [slides pdf]()
+* **Lec17:** GPU-efficient notebooks: [slides pdf](https://edstem.org/us/courses/72907/discussion/6510368)
 
 
 ### Recordings
