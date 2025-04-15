@@ -18,19 +18,19 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec18a:** AWS S3: [slides pdf](/ds5110-spring25/assets/docs/lec18a-aws-s3.pdf)
+* **Lec18:** AWS S3: [slides pdf](/ds5110-spring25/assets/docs/lec18a-aws-s3.pdf)
 
 
 
 ### Readings 
 
-* **Lec18a:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) (required)
+* **Lec18:** [Andy Warfield's interview about S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) (required)
 
 
 
 ### Recordings
 
-* **Lec18a:** [video]()
+* **Lec18:** [video]()
 
 
 
