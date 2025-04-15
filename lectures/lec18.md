@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec18:** AWS S3: [slides pdf](/ds5110-spring25/assets/docs/lec18a-aws-s3.pdf)
+* **Lec18:** AWS S3: [slides pdf](/ds5110-spring25/assets/docs/lec18-aws-s3.pdf)
 
 
 
