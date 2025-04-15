@@ -30,7 +30,7 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lec18:** [video]()
+* **Lec18a:** [video](https://edstem.org/us/courses/72907/discussion/6542609)
 
 
 
