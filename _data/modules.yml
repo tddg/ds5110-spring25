@@ -85,17 +85,17 @@ springRecess:
   name: Lec17-GPU-efficient notebooks
   page: /lectures/lec17-notebooks
 18a:
-  name: Lec18a-Cloud storage systems (AWS S3)
-  page: /lectures/lec18-cloud-storage
+  name: Lec18-AWS S3
+  page: /lectures/lec18-aws-s3
 18b:
-  name: Lec18b-Cloud storage systems (Amazon Dynamo I)
-  page: /lectures/lec18-cloud-storage
+  name: Lec19a-Amazon Dynamo I
+  page: /lectures/lec19-amazon-dynamo
 18c:
-  name: Lec18c-Cloud storage systems (Amazon Dynamo II)
-  page: /lectures/lec19-cloud-storage
+  name: Lec19b-Amazon Dynamo II
+  page: /lectures/lec19-amazon-dynamo
 19a:
-  name: Lec19-Hugging Face architecture
-  page: /lectures/lec19-hugging-face
+  name: Lec20-Hugging Face architecture
+  page: /lectures/lec20-hugging-face
 finalExam:
   name: Final exam (<strong>9:00am - 11:00am</strong>)
 a0:
