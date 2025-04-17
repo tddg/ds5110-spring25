@@ -15,9 +15,9 @@ deadlines:
     Tue:
       date: 2025/04/01 11:00am
       content: a3
-  '14':
-    Thu:
-      date: 2025/04/17 11:00am
+  '15':
+    Tue:
+      date: 2025/04/22 11:00am
       content: a4
 dates:
   firstMonday: 2025/01/13
