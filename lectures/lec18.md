@@ -31,6 +31,7 @@ In this lecture, you will learn:
 ### Recordings
 
 * **Lec18a:** [video](https://edstem.org/us/courses/72907/discussion/6542609)
+* **Lec18b:** [video](https://edstem.org/us/courses/72907/discussion/6556531)
 
 
 

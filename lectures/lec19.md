@@ -36,7 +36,7 @@ In this lecture, you will learn:
 
 ### Recordings
 
-* **Lec19a:** [video]()
+* **Lec19a:** [video](https://edstem.org/us/courses/72907/discussion/6556537)
 * **Lec19b:** [video]()
 
 
