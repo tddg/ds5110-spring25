@@ -25,7 +25,7 @@ In this lecture, you will learn:
 ### Lecture slides
 
 * **Lec19a:** Amazon Dynamo I: [slides pdf](/ds5110-spring25/assets/docs/lec19a-amazon-dynamo-i.pdf)
-* **Lec19b:** Amazon Dynamo II: [slides pdf](/ds5110-spring25/assets/docs/lec19b-amazon-dynamo-ii.pdf)
+* **Lec19b:** Amazon Dynamo II: [slides pdf](/ds5110-spring25/assets/docs/lec19b-amazon-dynamo-ii.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_dynamo.pdf)
 
 
 
