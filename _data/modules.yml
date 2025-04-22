@@ -122,5 +122,5 @@ a4:
   type: deadline
   page: /assignments/a4
 readingDay:
-  name: Reading days
+  name: Reading day
   type: holiday
