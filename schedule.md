@@ -117,11 +117,11 @@ weeks:
       content: 18c
     Thu:
       date: 2025/04/24
-      content: 19a
+      content: finalReview
   '16':
     Tue:
       date: 2025/04/29
-      content: readingDay
+      content: 19a
     Thu:
       date: 2025/05/01
       content: readingDay

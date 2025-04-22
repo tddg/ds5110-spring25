@@ -93,8 +93,11 @@ springRecess:
 18c:
   name: Lec19b-Amazon Dynamo II
   page: /lectures/lec19-amazon-dynamo
+finalReview:
+  name: Final review
+  page: /lectures/final-review
 19a:
-  name: Lec20-Hugging Face architecture
+  name: Lec20-Hugging Face and XetHub
   page: /lectures/lec20-hugging-face
 finalExam:
   name: Final exam (<strong>9:00am - 11:00am</strong>)
