@@ -24,8 +24,8 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec19a:** Amazon Dynamo I: [slides pdf](/ds5110-spring25/assets/docs/lec19a-amazon-dynamo-i.pdf), [HDD whiteboard notes](/ds5110-spring25/assets/docs/lec19a_hdd_notes.jpeg)
-* **Lec19b:** Amazon Dynamo II: [slides pdf](/ds5110-spring25/assets/docs/lec19b-amazon-dynamo-ii.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_dynamo.pdf), [worksheet key](/ds5110-spring25/assets/docs/worksheet_dynamo_key.pdf), [worksheet whiteboard notes](/ds5110-spring25/assets/docs/lec19b_whiteboard_notes.jpeg)
+* **Lec19a:** Amazon Dynamo I: [slides pdf](/ds5110-spring25/assets/docs/lec19a-amazon-dynamo-i.pdf), [HDD whiteboard notes](/ds5110-spring25/assets/docs/lec19a_hdd_notes.jpg)
+* **Lec19b:** Amazon Dynamo II: [slides pdf](/ds5110-spring25/assets/docs/lec19b-amazon-dynamo-ii.pdf), [worksheet](/ds5110-spring25/assets/docs/worksheet_dynamo.pdf), [worksheet key](/ds5110-spring25/assets/docs/worksheet_dynamo_key.pdf), [worksheet whiteboard notes](/ds5110-spring25/assets/docs/lec19b_whiteboard_notes.jpg)
 
 
 
