@@ -1,7 +1,7 @@
 ---
 layout: module
 title: "Lecture 20: Hugging Face and XetHub"
-permalink: /lectures/lec20-hungging-face
+permalink: /lectures/lec20-hugging-face
 parent: Lectures
 nav_order: 20
 
