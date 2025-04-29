@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lecture 20: Hugging Face and XetHub"
+title: "Lecture 20: Xet and Hugging Face"
 permalink: /lectures/lec20-hugging-face
 parent: Lectures
 nav_order: 20
@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec20:** Amazon Dynamo I: [slides pdf](https://edstem.org/us/courses/72907/discussion/6629329)
+* **Lec20:** Xet and Hugging Face: [slides pdf](https://edstem.org/us/courses/72907/discussion/6629329)
 
 
 ### Recordings
