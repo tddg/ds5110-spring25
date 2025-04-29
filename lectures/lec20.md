@@ -11,8 +11,8 @@ nav_order: 20
 
 In this lecture, you will learn:
 
-* **Lec20:** the transition from Hugging Face Git XFS to Xet content-defined chunking mechanism for deduplication
-* **Lec20:** Xet cofounders' thoughts and experience on entrepreneurial technological innovation. 
+* the transition from Hugging Face Git XFS to Xet content-defined chunking mechanism for deduplication
+* Xet cofounders' thoughts and experience on entrepreneurial technological innovation. 
 
 
 
