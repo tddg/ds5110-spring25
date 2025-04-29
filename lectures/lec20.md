@@ -3,7 +3,7 @@ layout: module
 title: "Lecture 20: Xet and Hugging Face"
 permalink: /lectures/lec20-hugging-face
 parent: Lectures
-nav_order: 20
+nav_order: 21
 
 ---
 
