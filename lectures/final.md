@@ -15,7 +15,7 @@ nav_order: 20
 
 ### Recordings
 
-* [Video]()
+* [Video](https://edstem.org/us/courses/72907/discussion/6658298)
 
 
 ### Quiz 6 (extra credit)
